@@ -8,9 +8,9 @@
 
 </div>
 
-# 👋 Hi, I'm Kiran
+# 👋 Hello, I'm Kiran V
 
-### 💻 Software Engineer | 🚀 Full Stack Developer | 📊 Data Analyst
+### 💻 Software Engineer  | 📊 Data Analyst
 
 > Building scalable applications and transforming data into actionable insights.
 
