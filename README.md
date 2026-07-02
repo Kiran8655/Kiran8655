@@ -10,7 +10,7 @@
 
 # 👋 Hello, I'm Kiran V
 
-### 💻 Software Engineer  | 📊 Data Analyst
+### 💻 Software Engineer | 🚀 Full Stack Developer | 📊 Data Analyst
 
 > Building scalable applications and transforming data into actionable insights.
 
