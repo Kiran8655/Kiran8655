@@ -8,7 +8,7 @@
 
 </div>
 
-# 👋 Hello, I'm Kiran V
+# 👋 Hello, I'm Kiran 
 
 ### 💻 Software Engineer | 🚀 Full Stack Developer | 📊 Data Analyst
 
